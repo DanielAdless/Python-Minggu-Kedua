@@ -1,4 +1,3 @@
-# Python-Minggu-Kedua
 # Second Week Independent Python Study Material
 
 # LEARN "ELSE AFTER FOR, BREAK AND CONTINUE"
