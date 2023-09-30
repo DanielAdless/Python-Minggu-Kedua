@@ -1,6 +1,6 @@
 # Second Week Independent Python Study Material
 
-# LEARN "ELSE AFTER FOR, BREAK AND CONTINUE"
+# Learn Else after for, break and continue
 
 Here's an explanation:
 
