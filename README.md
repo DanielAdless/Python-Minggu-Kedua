@@ -1,6 +1,9 @@
 # Second Week Independent Python Study Material
+"Second week on our Python journey! Today, we will explore deeper concepts, such as the use of functions and control of programming workflows."
 
-# Learn Else after for, break and continue
+
+Learn Else after for, break and continue
+
 
 Here's an explanation:
 
@@ -26,7 +29,7 @@ Sample source code;
 
 
 
-# LEARN "WHILE AND BREAK CONDITIONAL EXPRESION"
+Learn "While, break and conditional expresion"
 
 Here's an explanation:
 
@@ -44,7 +47,7 @@ Sample source code;
 ![s2](https://github.com/DanielAdless/Python-Minggu-Kedua/assets/145754190/08a1ce04-b22d-49a2-a86a-4175ca4a8783)
 
 
-# LEARN "LIST COMPREHENSION"
+Learn "List comprehension"
 
 Here's an explanation:
 
@@ -55,7 +58,7 @@ Sample source code;
 ![s3](https://github.com/DanielAdless/Python-Minggu-Kedua/assets/145754190/8aab1639-fad3-47fc-a70a-632cc7454d24)
 
 
-# LEARN "FUNCTION AND RETURN"
+Learn "Function and return"
 
 Here's an explanation:
 
@@ -72,4 +75,7 @@ Sample source code;
 ![c2](https://github.com/DanielAdless/Python-Minggu-Kedua/assets/145754190/2d3d3722-29d9-4e27-ab87-e91407afc9b9)
 
 
+# "Approaching Python with curiosity is the key to revealing its power. Let's keep exploring!
+
+The Python learning journey is an intellectual adventure full of discoveries, challenges, and achievements. When someone starts this journey, they may have little or no experience in programming at all. However, as time went by, learning Python took them through a series of stages that formed a deeper understanding of the world of programming.
 
